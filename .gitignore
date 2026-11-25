@@ -1,0 +1,4 @@
+.skill-work/
+.DS_Store
+*.local.*
+.env*
